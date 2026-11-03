@@ -70,7 +70,7 @@ For each source, ask:
 | [Stack Overflow: the architecture](https://stackoverflow.blog/2016/02/17/stack-overflow-the-architecture-2016-edition/) | Stack Overflow | Vertical scaling, caching, and a deliberately boring stack. | First-party |
 | [Scaling Slack's architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/) | Slack | Cell-based architecture, failure isolation, and migration strategy. | First-party |
 | [Netflix Tech Blog](https://netflixtechblog.com/) | Netflix | Streaming, experimentation, resilience, and data infrastructure at scale. | Archive |
-| [H3: Uber's hexagonal hierarchical geospatial index](https://www.uber.com/blog/h3/) | Uber | Geospatial indexing, hexagons, and the cost of location queries. | First-party |
+| [H3: Uber's hexagonal hierarchical geospatial index](https://h3geo.org/) | Uber | Geospatial indexing, hexagons, and the cost of location queries. | First-party |
 | [Stripe API versioning](https://stripe.com/blog/api-versioning) | Stripe | Backward compatibility as a product feature and an engineering constraint. | First-party |
 | [How Cloudflare works](https://developers.cloudflare.com/fundamentals/concepts/how-cloudflare-works/) | Cloudflare | Anycast, edge termination, and the reverse-proxy model. | Docs |
 
@@ -141,7 +141,7 @@ These are not miniature versions of hyperscale systems. They are different const
 
 | Source | System | Read it for | Type |
 |---|---|---|---|
-| [Pieter Levels: tech stack](https://levels.io/tech-stack/) | Nomad List / Remote OK | A deliberately small stack, static delivery, and solo operation. | First-party |
+| [Pieter Levels: minimal solo-founder setup](https://levels.io/minimal-solo-founder-100-automation) | Nomad List / Remote OK | A deliberately small stack, automation, and solo operation. | First-party |
 | [Nomad List open data](https://nomadlist.com/open) | Nomad List | Transparency, community data, and a small-team product surface. | First-party |
 | [Baremetrics open startup](https://baremetrics.com/open-startups) | Baremetrics | Public revenue metrics and the economics of a bootstrapped SaaS. | First-party |
 | [Basecamp Shape Up](https://basecamp.com/shapeup) | Basecamp | Fixed time, variable scope, and shipping without a backlog death spiral. | Book |
